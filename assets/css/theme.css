@@ -784,6 +784,8 @@ body.tt-boxed .tt-wrap {
 
 		box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05);
 
+		background-color:#000;
+
 	}
 
 }
@@ -1720,6 +1722,12 @@ body.tt-m-menu-open #tt-m-menu-toggle-btn span:after {
 
 		display: block;
 
+		background-color: #fff;
+
+	}
+
+	.iframe{
+		height: 880px;
 	}
 
 
@@ -21305,3 +21313,5 @@ body.tt-boxed #footer.footer-minimal .footer-container {
 	color: #c2254d;
 
 }
+
+
