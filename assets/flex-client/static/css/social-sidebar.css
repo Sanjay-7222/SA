@@ -575,3 +575,27 @@
 	background: rgba(0, 0, 0);
 	color: #fff;
 	}
+
+
+
+.insta{
+    background: linear-gradient(45deg, #f9ce34, #ee2a7b, #d62976, #6228d7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+    .fb {
+    color: #1877f2; /* Facebook Blue */
+  }
+
+  .yt {
+    color: #ff0000; /* YouTube Red */
+  }
+
+  .wa {
+    color: #25d366; /* WhatsApp Green */
+  }
+
+  .ph {
+    color: #34b7f1; /* Common light blue phone icon color */
+  }
