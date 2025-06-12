@@ -784,8 +784,6 @@ body.tt-boxed .tt-wrap {
 
 		box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05);
 
-		background-color:#000;
-
 	}
 
 }
@@ -1640,7 +1638,7 @@ body.tt-m-menu-open #header.header-show-hide-on-scroll { /* disable hide/show he
 
 	width: 25px;
 
-	background-color: #222;
+	background-color: #00197f;
 
 	cursor: pointer;
 
@@ -1721,8 +1719,6 @@ body.tt-m-menu-open #tt-m-menu-toggle-btn span:after {
 	#tt-m-menu-toggle-btn {
 
 		display: block;
-
-		background-color: #fff;
 
 	}
 	
